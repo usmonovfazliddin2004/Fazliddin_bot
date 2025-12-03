@@ -31,7 +31,7 @@ Botdan foydalanish juda oson — shunchaki savol yuboring!
 1. Repo klonlash:
 
 ```bash
-git clone https://github.com/username/ChatGPT-Telegram-Bot.git
+git clone https://github.com/DilshodbekAqiyev/ChatGPT-Telegram-Bot.git
 cd ChatGPT-Telegram-Bot
 
 .env faylini yaratish:
