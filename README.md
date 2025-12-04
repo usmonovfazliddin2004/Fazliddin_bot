@@ -1,6 +1,6 @@
 # ChatGPT Telegram Bot 🤖
 
-[Botga kirish](https://t.me/KIDTChatgpt_bot)
+[Botga kirish](https://t.me/UsmonovFazliddin_bot)
 
 ---
 
@@ -31,7 +31,7 @@ Botdan foydalanish juda oson — shunchaki savol yuboring!
 1. Repo klonlash:
 
 ```bash
-git clone https://github.com/DilshodbekAqiyev/ChatGPT-Telegram-Bot.git
+git clone https://github.com/usmonovfazliddin2004/Fazliddin_GPT.git
 cd ChatGPT-Telegram-Bot
 
 .env faylini yaratish:
